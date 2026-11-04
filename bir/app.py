@@ -61,7 +61,7 @@ if not st.session_state.unlocked:
     )
 
     st.markdown(
-        "<h3 style='text-align:center'>Something special awaits you 💜</h3>",
+        "<h3 style='text-align:center'>Something special awaits you 💜 Login For Surprise </h3>",
         unsafe_allow_html=True
     )
 
